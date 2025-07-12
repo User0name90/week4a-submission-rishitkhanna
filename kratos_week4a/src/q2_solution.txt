@@ -1,0 +1,10 @@
+1) YES
+2) YES
+3) YES
+4) YES
+5) NO ( maximum absolute distance should be 3.5m from origin but it is 4m)
+6) NO ( minimum absolute distance should be 0.5m from origin but it is 0.2m)
+
+absolute distance r=(x^2 +y^2)^(1/2)
+
+    0.5 <= r <= 3.5
